@@ -1,0 +1,15 @@
+{
+  "name": "express-ws-rpc",
+  "version": "0.0.1",
+  "description": "Simple JSON RPC over ws or simple-websocket",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philip Polkovnikov <polkovnikov.ph@gmail.com>",
+  "license": "MIT"
+}
