@@ -1,6 +1,6 @@
 {
   "name": "express-ws-rpc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple JSON RPC over ws or simple-websocket",
   "main": "index.js",
   "directories": {
@@ -11,5 +11,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Philip Polkovnikov <polkovnikov.ph@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polkovnikov-ph/express-ws-rpc.git"
+  },
+  "keywords": [
+    "express",
+    "websocket",
+    "rpc"
+  ],
+  "bugs": {
+    "url": "https://github.com/polkovnikov-ph/express-ws-rpc/issues"
+  },
+  "homepage": "https://github.com/polkovnikov-ph/express-ws-rpc#readme"
 }
