@@ -32,7 +32,7 @@ module.exports = function (ws) {
 				err: err,
 				result: result
 			});
-			console.log('responding', resp);
+			//console.log('responding', resp);
 			ws.send(new Buffer(resp));
 		}
 	}
